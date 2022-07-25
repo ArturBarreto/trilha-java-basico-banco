@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d72e53d2-0d58-4dd4-a00e-4b7135d4cb4e" name="Changes" comment="Primeiro commit.">
-      <change afterPath="$PROJECT_DIR$/src/Banco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d72e53d2-0d58-4dd4-a00e-4b7135d4cb4e" name="Changes" comment="Implementação das regras de negócio.">
+      <change beforePath="$PROJECT_DIR$/src/Banco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Banco.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658707379815</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implementação das regras de negócio.">
+      <created>1658708474934</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658708474934</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primeiro commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit." />
+    <MESSAGE value="Implementação das regras de negócio." />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementação das regras de negócio." />
   </component>
 </project>
